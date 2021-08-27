@@ -12,7 +12,7 @@ sections:
       - label: Get Started
         url: /docs
         style: primary
-  - section_id: lorem-ipsum
+  - section_id: landing page continue
     content: >-
       ## Lorem ipsum
 
