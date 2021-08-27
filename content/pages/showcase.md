@@ -16,7 +16,6 @@ sections:
 
         actions: []
       - title: Image 2 Title
-        image: images/7.jpg
         content: A personal theme for Unibit
       - title: Fjord
         title_url: 'https://themes.stackbit.com/demos/fjord/'
