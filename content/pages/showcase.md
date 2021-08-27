@@ -21,7 +21,6 @@ sections:
       - content: A minimal blogging theme for Unibit
         title: Image 3 Title
       - title: Image 4 Title
-        title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
         image: images/9.jpg
         content: Medium inspired blogging theme for Unibit
 seo:
