@@ -1,6 +1,6 @@
 ---
 title: Installation
-weight: 2
+weight: 1
 seo:
   title: Installation
   description: This is the installation page
