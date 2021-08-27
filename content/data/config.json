@@ -31,7 +31,7 @@
                 "has_subnav": true,
                 "subnav_links": [
                     {
-                        "label": "Showcase",
+                        "label": "Gallery",
                         "url": "/showcase",
                         "style": "link"
                     }
