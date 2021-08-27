@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - section_id: hero
+  - section_id: Landing Page
     type: section_hero
     title: '[Big Title]'
     image: images/5.jpg
