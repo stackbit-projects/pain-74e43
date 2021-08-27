@@ -15,7 +15,7 @@ sections:
           \[ content ]
 
         actions: []
-      - title: Fresh
+      - title: Image 2 Title
         title_url: 'https://themes.stackbit.com/demos/fresh/'
         image: images/7.jpg
         content: A personal theme for Unibit
