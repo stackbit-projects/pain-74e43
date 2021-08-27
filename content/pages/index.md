@@ -27,6 +27,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_hero
+    image: /images/5.jpg
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
