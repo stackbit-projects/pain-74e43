@@ -1,5 +1,5 @@
 ---
-title: Showcase
+title: Gallery
 sections:
   - section_id: hero
     type: section_hero
