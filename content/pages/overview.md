@@ -1,5 +1,5 @@
 ---
-title: Test 1
+title: Subcategory 1
 sections:
   - section_id: hero
     type: section_hero
