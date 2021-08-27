@@ -23,7 +23,7 @@ seo:
     - name: 'twitter:description'
       value: This is the manage content page
 layout: docs
-weight: 1
+weight: 0
 ---
 
 <div class="note">
