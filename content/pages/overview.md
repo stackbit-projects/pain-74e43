@@ -3,7 +3,7 @@ title: Subcategory 1
 sections:
   - section_id: hero
     type: section_hero
-    title: '[ '
+    title: '[ Title ]'
     image: images/5.jpg
     content: An optional subtitle
   - section_id: docs-overview
