@@ -18,8 +18,7 @@ sections:
       - title: Image 2 Title
         content: |
           \[ content ]
-      - image: images/8.jpg
-        content: A minimal blogging theme for Unibit
+      - content: A minimal blogging theme for Unibit
         title: Image 3 Title
       - title: Ampersand
         title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
