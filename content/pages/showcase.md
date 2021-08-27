@@ -11,7 +11,9 @@ sections:
     col_number: three
     grid_items:
       - title: Image 1 Title
-        content: A portfolio theme for Unibit
+        content: |+
+          \[ content ]
+
       - title: Fresh
         title_url: 'https://themes.stackbit.com/demos/fresh/'
         image: images/7.jpg
