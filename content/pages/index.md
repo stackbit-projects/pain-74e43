@@ -12,10 +12,6 @@ sections:
       - label: Get Started
         url: /docs
         style: primary
-  - section_id: features
-    type: section_grid
-    col_number: three
-    grid_items: []
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
