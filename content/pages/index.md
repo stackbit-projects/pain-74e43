@@ -12,8 +12,7 @@ sections:
       - label: Get Started
         url: /docs
         style: primary
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
