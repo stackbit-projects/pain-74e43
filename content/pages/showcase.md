@@ -21,7 +21,8 @@ sections:
       - content: A minimal blogging theme for Unibit
         title: Image 3 Title
       - title: Image 4 Title
-        content: Medium inspired blogging theme for Unibit
+        content: |
+          \[ content ]
 seo:
   title: Showcase
   description: This is the showcase page
